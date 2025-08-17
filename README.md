@@ -1,5 +1,5 @@
 # Return anything
-Return any code you want.
+Return any exit code you want.
 
 ```
 Usage: ./main <exit_code>
